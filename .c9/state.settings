@@ -1,0 +1,483 @@
+{
+    "ace": {
+        "search": {
+            "@backwards": "false",
+            "@highlightmatches": "true",
+            "@matchcase": "false",
+            "@preservecase": "false",
+            "@regex": "false",
+            "@wholeword": "false",
+            "@wraparound": "true"
+        }
+    },
+    "breakpoints": {
+        "json()": [
+            {
+                "path": "/massive ",
+                "line": 11,
+                "column": 4,
+                "text": "massive ",
+                "content": "    float given_amount = 0;",
+                "time": 1471944566060,
+                "enabled": true,
+                "command": "bp-set",
+                "_id": 2
+            },
+            {
+                "path": "/sort.c",
+                "line": 30,
+                "column": 5,
+                "text": "sort.c",
+                "content": "     mass[i] = GetInt();",
+                "time": 1471902971794,
+                "enabled": true,
+                "moved": 30,
+                "command": "bp-set",
+                "_id": 3
+            }
+        ]
+    },
+    "console": {
+        "@expanded": true,
+        "@height": 275.73863220214844,
+        "@maximized": "false",
+        "json()": {
+            "meta": {
+                "accessList": [
+                    "tab2"
+                ]
+            },
+            "name": "pane2",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab2",
+                    "path": "",
+                    "className": [
+                        "tab2"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1470857489486
+                        },
+                        "filter": true,
+                        "title": "workspace/",
+                        "tooltip": "workspace/ - \"\"",
+                        "terminal": {
+                            "id": "devel_361",
+                            "cwd": "",
+                            "width": 1014,
+                            "height": 244
+                        }
+                    },
+                    "editorType": "terminal",
+                    "active": true
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "experiments": {
+        "@@enabled": true,
+        "@autosave": 0,
+        "@flat-dark": 0,
+        "@git": 1,
+        "@go_completion": 0,
+        "@plugin-manager": 1,
+        "@plugins": 0,
+        "@sdk": 0,
+        "@test": 0
+    },
+    "ext": {
+        "counters": {
+            "@ace": 1,
+            "@acestatus": 1,
+            "@dialog": 1,
+            "@divider": 4,
+            "@document": 9,
+            "@form": 5,
+            "@imgeditor": 1,
+            "@imgview": 1,
+            "@menu": 5,
+            "@menuitem": 14,
+            "@pane": 1,
+            "@preview": 1,
+            "@session": 9,
+            "@tab": 6,
+            "@undoManager": 9
+        }
+    },
+    "findinfiles": {
+        "@console": "true",
+        "@matchcase": "false",
+        "@regex": "false",
+        "@scope": "selection",
+        "@wholeword": "false"
+    },
+    "menus": {
+        "@minimized": "false"
+    },
+    "nak": {
+        "@installed": true
+    },
+    "panecycle": {
+        "json()": [
+            "tab5",
+            "tab2"
+        ]
+    },
+    "panels": {
+        "@active-left": "tree",
+        "@active-right": "none",
+        "@width-left": 192,
+        "@width-right": 220,
+        "commands.panel": {
+            "@enabled": "false",
+            "@name": "commands.panel"
+        },
+        "debugger": {
+            "@enabled": "true",
+            "@name": "debugger"
+        },
+        "navigate": {
+            "@enabled": "false",
+            "@name": "navigate"
+        },
+        "outline": {
+            "@enabled": "true",
+            "@name": "outline"
+        },
+        "scm": {
+            "@enabled": "false",
+            "@name": "scm"
+        },
+        "tree": {
+            "@enabled": "false",
+            "@name": "tree"
+        }
+    },
+    "projecttree": {
+        "@scrollpos": 5,
+        "@showfs": true,
+        "expanded": {
+            "json()": [
+                "/",
+                "/pset4/jpg",
+                "/pset6/public",
+                "/pset3/find",
+                "/pset3/breakout",
+                "/pset3",
+                "/pset1",
+                "/pset4",
+                "/pset2"
+            ]
+        }
+    },
+    "recentfiles": {
+        "json()": []
+    },
+    "search-history": {
+        "search": {
+            "json()": [
+                "todo"
+            ]
+        }
+    },
+    "tabs": {
+        "json()": {
+            "focus": "/pset1/pyramid.c",
+            "meta": {
+                "accessList": [
+                    "tab5",
+                    "tab4",
+                    "tab7",
+                    "tab11",
+                    "tab0",
+                    "tab1",
+                    "tab3",
+                    "tab6"
+                ]
+            },
+            "name": "pane0",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab0",
+                    "path": "/pset5/Makefile",
+                    "className": [
+                        "tab0"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "Makefile",
+                        "tooltip": "/pset5/Makefile",
+                        "ace": {
+                            "folds": [],
+                            "scrolltop": 237.2727221299795,
+                            "scrollleft": 0,
+                            "selection": {
+                                "start": {
+                                    "row": 0,
+                                    "column": 0
+                                },
+                                "end": {
+                                    "row": 0,
+                                    "column": 0
+                                },
+                                "isBackwards": false
+                            },
+                            "options": {
+                                "guessTabSize": true,
+                                "useWrapMode": false,
+                                "wrapToView": true
+                            },
+                            "firstLineState": {
+                                "row": 16,
+                                "state": "start",
+                                "mode": "ace/mode/makefile"
+                            }
+                        },
+                        "hash": "ae8d460a493fd9a4858e5c61e9444f62eff517ec",
+                        "meta": {
+                            "timestamp": 1413505272000
+                        },
+                        "changed": false
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab1",
+                    "path": "/pset5/dictionary.c",
+                    "className": [
+                        "tab1"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "dictionary.c",
+                        "tooltip": "/pset5/dictionary.c",
+                        "ace": {
+                            "folds": [],
+                            "scrolltop": 1840,
+                            "scrollleft": 0,
+                            "selection": {
+                                "start": {
+                                    "row": 12,
+                                    "column": 19
+                                },
+                                "end": {
+                                    "row": 12,
+                                    "column": 19
+                                },
+                                "isBackwards": false
+                            },
+                            "options": {
+                                "guessTabSize": true,
+                                "useWrapMode": false,
+                                "wrapToView": true
+                            },
+                            "firstLineState": {
+                                "row": 27,
+                                "state": "start",
+                                "mode": "ace/mode/c_cpp"
+                            }
+                        },
+                        "hash": "907345e9655a73f6bbed2893a5487b37151cb94a",
+                        "meta": {
+                            "timestamp": 1478012174428
+                        },
+                        "changed": false
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab3",
+                    "path": "/pset5/dictionary.h",
+                    "className": [
+                        "tab3"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "dictionary.h",
+                        "tooltip": "/pset5/dictionary.h",
+                        "ace": {
+                            "folds": [],
+                            "scrolltop": 209.9999954483727,
+                            "scrollleft": 0,
+                            "selection": {
+                                "start": {
+                                    "row": 38,
+                                    "column": 22
+                                },
+                                "end": {
+                                    "row": 38,
+                                    "column": 22
+                                },
+                                "isBackwards": false
+                            },
+                            "options": {
+                                "guessTabSize": true,
+                                "useWrapMode": false,
+                                "wrapToView": true
+                            },
+                            "firstLineState": {
+                                "row": 177,
+                                "mode": "ace/mode/c_cpp"
+                            }
+                        },
+                        "hash": "ac538de08b6905746008cc79ac8b0f0889ab49f1",
+                        "meta": {
+                            "timestamp": 1478012178317
+                        },
+                        "changed": false
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab6",
+                    "path": "/pset3/find/find.c",
+                    "className": [
+                        "tab6"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "find.c",
+                        "tooltip": "/pset3/find/find.c",
+                        "ace": {
+                            "folds": [],
+                            "scrolltop": 691.8181668234268,
+                            "scrollleft": 0,
+                            "selection": {
+                                "start": {
+                                    "row": 56,
+                                    "column": 37
+                                },
+                                "end": {
+                                    "row": 56,
+                                    "column": 37
+                                },
+                                "isBackwards": false
+                            },
+                            "options": {
+                                "guessTabSize": true,
+                                "useWrapMode": false,
+                                "wrapToView": true
+                            },
+                            "firstLineState": {
+                                "row": 49,
+                                "state": "start",
+                                "mode": "ace/mode/c_cpp"
+                            }
+                        },
+                        "hash": "724ce1ac710babf1cb7c95b0cdc8d2ed7ec1178b",
+                        "meta": {
+                            "timestamp": 1479720636545
+                        },
+                        "changed": false
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab7",
+                    "path": "/pset3/find/helpers.c",
+                    "className": [
+                        "tab7",
+                        "changed"
+                    ],
+                    "document": {
+                        "changed": true,
+                        "meta": {
+                            "timestamp": 1479720235503
+                        },
+                        "filter": true,
+                        "title": "helpers.c",
+                        "tooltip": "/pset3/find/helpers.c",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab11",
+                    "path": "/pset1/gass.txt",
+                    "className": [
+                        "tab11",
+                        "changed"
+                    ],
+                    "document": {
+                        "changed": true,
+                        "meta": {
+                            "timestamp": 1504721912286
+                        },
+                        "filter": true,
+                        "title": "gass.txt",
+                        "tooltip": "/pset1/gass.txt",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab4",
+                    "path": "/pset1/mario.c",
+                    "className": [
+                        "tab4"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1471514997327
+                        },
+                        "filter": true,
+                        "title": "mario.c",
+                        "tooltip": "/pset1/mario.c",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab5",
+                    "path": "/pset1/pyramid.c",
+                    "className": [
+                        "tab5",
+                        "focus"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1473185183678
+                        },
+                        "filter": true,
+                        "title": "pyramid.c",
+                        "tooltip": "/pset1/pyramid.c",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": true
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "tree_selection": {
+        "json()": [
+            "/"
+        ]
+    }
+}

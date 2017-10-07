@@ -1,0 +1,14 @@
+/home/ubuntu/workspace/pset1
+total 96
+-rw------- 1 ubuntu ubuntu    29 Sep  6 18:17 gass.txt
+-rwx------ 1 ubuntu ubuntu 14678 Aug 10  2016 gready*
+-rw-r--r-- 1 ubuntu ubuntu  1258 Aug 23  2016 gready.c
+-rwx------ 1 ubuntu ubuntu 14534 Sep  5  2016 greedy*
+-rw-r--r-- 1 ubuntu ubuntu   723 Sep  6  2016 greedy.c
+-rw-r--r-- 1 ubuntu ubuntu    82 Aug 18  2016 hello.c
+-rw------- 1 ubuntu ubuntu    19 Sep  6 17:48 make.txt
+-rwx------ 1 ubuntu ubuntu 14514 Sep  5  2016 mario*
+-rw-r--r-- 1 ubuntu ubuntu   522 Aug 18  2016 mario.c
+-rwx------ 1 ubuntu ubuntu 14508 Sep  6  2016 piramid*
+-rw-r--r-- 1 ubuntu ubuntu   553 Sep  6  2016 piramid.c
+-rw-r--r-- 1 ubuntu ubuntu   556 Sep  6  2016 pyramid.c
